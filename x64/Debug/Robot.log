@@ -1,0 +1,117 @@
+﻿生成启动时间为 2019/1/26 11:41:34。
+     1>项目“C:\Users\Administrator\Desktop\Robot\Robot.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\vs2015\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt GLF_PDE.cpp GLW_PDE.cpp test.cpp
+         GLF_PDE.cpp
+     1>GLF_PDE.cpp(71): warning C4302: “reinterpret_cast”: 从“GLApplication *”到“LONG”截断
+         GLW_PDE.cpp
+     1>GLW_PDE.cpp(183): warning C4838: 从“int”转换到“BYTE”需要收缩转换
+         test.cpp
+     1>c:\users\administrator\desktop\robot\ModelInput_PDE.h(81): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\corecrt_wstdio.h(129): note: 参见“_wfopen”的声明
+     1>c:\users\administrator\desktop\robot\ModelInput_PDE.h(88): warning C4996: 'fwscanf': This function or variable may be unsafe. Consider using fwscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\corecrt_wstdio.h(851): note: 参见“fwscanf”的声明
+     1>c:\users\administrator\desktop\robot\ModelInput_PDE.h(90): warning C4996: 'fwscanf': This function or variable may be unsafe. Consider using fwscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\corecrt_wstdio.h(851): note: 参见“fwscanf”的声明
+     1>c:\users\administrator\desktop\robot\ModelInput_PDE.h(100): warning C4996: 'fwscanf': This function or variable may be unsafe. Consider using fwscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\corecrt_wstdio.h(851): note: 参见“fwscanf”的声明
+     1>c:\users\administrator\desktop\robot\ModelInput_PDE.h(102): warning C4996: 'fwscanf': This function or variable may be unsafe. Consider using fwscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\corecrt_wstdio.h(851): note: 参见“fwscanf”的声明
+     1>c:\users\administrator\desktop\robot\ModelInput_PDE.h(116): warning C4996: 'fwscanf': This function or variable may be unsafe. Consider using fwscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\corecrt_wstdio.h(851): note: 参见“fwscanf”的声明
+     1>c:\users\administrator\desktop\robot\ModelInput_PDE.h(117): warning C4996: 'fwscanf': This function or variable may be unsafe. Consider using fwscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\corecrt_wstdio.h(851): note: 参见“fwscanf”的声明
+     1>c:\users\administrator\desktop\robot\ModelInput_PDE.h(118): warning C4996: 'fwscanf': This function or variable may be unsafe. Consider using fwscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\corecrt_wstdio.h(851): note: 参见“fwscanf”的声明
+     1>c:\users\administrator\desktop\robot\ModelInput_PDE.h(119): warning C4996: 'fwscanf': This function or variable may be unsafe. Consider using fwscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\corecrt_wstdio.h(851): note: 参见“fwscanf”的声明
+     1>c:\users\administrator\desktop\robot\ModelInput_PDE.h(120): warning C4996: 'fwscanf': This function or variable may be unsafe. Consider using fwscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\corecrt_wstdio.h(851): note: 参见“fwscanf”的声明
+     1>c:\users\administrator\desktop\robot\ModelInput_PDE.h(121): warning C4996: 'fwscanf': This function or variable may be unsafe. Consider using fwscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\corecrt_wstdio.h(851): note: 参见“fwscanf”的声明
+     1>c:\users\administrator\desktop\robot\ModelInput_PDE.h(122): warning C4996: 'fwscanf': This function or variable may be unsafe. Consider using fwscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\corecrt_wstdio.h(851): note: 参见“fwscanf”的声明
+     1>c:\users\administrator\desktop\robot\ModelInput_PDE.h(132): warning C4996: 'fwscanf': This function or variable may be unsafe. Consider using fwscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\corecrt_wstdio.h(851): note: 参见“fwscanf”的声明
+     1>c:\users\administrator\desktop\robot\ModelInput_PDE.h(144): warning C4996: 'fwscanf': This function or variable may be unsafe. Consider using fwscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\corecrt_wstdio.h(851): note: 参见“fwscanf”的声明
+     1>c:\users\administrator\desktop\robot\ModelInput_PDE.h(145): warning C4996: 'fwscanf': This function or variable may be unsafe. Consider using fwscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\corecrt_wstdio.h(851): note: 参见“fwscanf”的声明
+     1>c:\users\administrator\desktop\robot\ModelInput_PDE.h(147): warning C4996: 'fwscanf': This function or variable may be unsafe. Consider using fwscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\corecrt_wstdio.h(851): note: 参见“fwscanf”的声明
+     1>c:\users\administrator\desktop\robot\ModelInput_PDE.h(148): warning C4996: 'fwscanf': This function or variable may be unsafe. Consider using fwscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\corecrt_wstdio.h(851): note: 参见“fwscanf”的声明
+     1>c:\users\administrator\desktop\robot\ModelInput_PDE.h(152): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\corecrt_wstring.h(121): note: 参见“wcscpy”的声明
+     1>c:\users\administrator\desktop\robot\ModelInput_PDE.h(153): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\corecrt_wstring.h(121): note: 参见“wcscpy”的声明
+     1>c:\users\administrator\desktop\robot\ModelInput_PDE.h(191): warning C4996: 'fwscanf': This function or variable may be unsafe. Consider using fwscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\corecrt_wstdio.h(851): note: 参见“fwscanf”的声明
+     1>c:\users\administrator\desktop\robot\ModelInput_PDE.h(195): warning C4996: 'fwscanf': This function or variable may be unsafe. Consider using fwscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\corecrt_wstdio.h(851): note: 参见“fwscanf”的声明
+     1>c:\users\administrator\desktop\robot\ModelInput_PDE.h(196): warning C4996: 'fwscanf': This function or variable may be unsafe. Consider using fwscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\corecrt_wstdio.h(851): note: 参见“fwscanf”的声明
+     1>c:\users\administrator\desktop\robot\ModelInput_PDE.h(198): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\corecrt_wstring.h(121): note: 参见“wcscpy”的声明
+     1>c:\users\administrator\desktop\robot\ModelInput_PDE.h(200): warning C4996: 'fwscanf': This function or variable may be unsafe. Consider using fwscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\corecrt_wstdio.h(851): note: 参见“fwscanf”的声明
+     1>c:\users\administrator\desktop\robot\ModelInput_PDE.h(204): warning C4996: 'fwscanf': This function or variable may be unsafe. Consider using fwscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\corecrt_wstdio.h(851): note: 参见“fwscanf”的声明
+     1>c:\users\administrator\desktop\robot\ModelInput_PDE.h(207): warning C4996: 'fwscanf': This function or variable may be unsafe. Consider using fwscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\corecrt_wstdio.h(851): note: 参见“fwscanf”的声明
+     1>c:\users\administrator\desktop\robot\ModelInput_PDE.h(211): warning C4996: 'fwscanf': This function or variable may be unsafe. Consider using fwscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\corecrt_wstdio.h(851): note: 参见“fwscanf”的声明
+     1>c:\users\administrator\desktop\robot\ModelInput_PDE.h(227): warning C4996: 'fwscanf': This function or variable may be unsafe. Consider using fwscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\corecrt_wstdio.h(851): note: 参见“fwscanf”的声明
+     1>c:\users\administrator\desktop\robot\ModelInput_PDE.h(232): warning C4996: 'fwscanf': This function or variable may be unsafe. Consider using fwscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\corecrt_wstdio.h(851): note: 参见“fwscanf”的声明
+     1>c:\users\administrator\desktop\robot\ModelInput_PDE.h(244): warning C4996: 'fwscanf': This function or variable may be unsafe. Consider using fwscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\corecrt_wstdio.h(851): note: 参见“fwscanf”的声明
+     1>c:\users\administrator\desktop\robot\ModelInput_PDE.h(249): warning C4996: 'fwscanf': This function or variable may be unsafe. Consider using fwscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\corecrt_wstdio.h(851): note: 参见“fwscanf”的声明
+     1>c:\users\administrator\desktop\robot\ModelInput_PDE.h(260): warning C4996: 'fwscanf': This function or variable may be unsafe. Consider using fwscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\corecrt_wstdio.h(851): note: 参见“fwscanf”的声明
+     1>c:\users\administrator\desktop\robot\ModelInput_PDE.h(265): warning C4996: 'fwscanf': This function or variable may be unsafe. Consider using fwscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\corecrt_wstdio.h(851): note: 参见“fwscanf”的声明
+     1>c:\users\administrator\desktop\robot\ModelInput_PDE.h(267): warning C4996: 'fwscanf': This function or variable may be unsafe. Consider using fwscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\corecrt_wstdio.h(851): note: 参见“fwscanf”的声明
+     1>c:\users\administrator\desktop\robot\ModelInput_PDE.h(276): warning C4996: 'fwscanf': This function or variable may be unsafe. Consider using fwscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\corecrt_wstdio.h(851): note: 参见“fwscanf”的声明
+     1>c:\users\administrator\desktop\robot\ModelInput_PDE.h(281): warning C4996: 'fwscanf': This function or variable may be unsafe. Consider using fwscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\corecrt_wstdio.h(851): note: 参见“fwscanf”的声明
+     1>c:\users\administrator\desktop\robot\ModelInput_PDE.h(285): warning C4996: 'fwscanf': This function or variable may be unsafe. Consider using fwscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\corecrt_wstdio.h(851): note: 参见“fwscanf”的声明
+     1>c:\users\administrator\desktop\robot\ModelInput_PDE.h(287): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\corecrt_wstring.h(121): note: 参见“wcscpy”的声明
+     1>c:\users\administrator\desktop\robot\ModelInput_PDE.h(299): warning C4996: 'fwscanf': This function or variable may be unsafe. Consider using fwscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\corecrt_wstdio.h(851): note: 参见“fwscanf”的声明
+     1>c:\users\administrator\desktop\robot\ModelInput_PDE.h(303): warning C4996: 'fwscanf': This function or variable may be unsafe. Consider using fwscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\corecrt_wstdio.h(851): note: 参见“fwscanf”的声明
+     1>c:\users\administrator\desktop\robot\ModelInput_PDE.h(307): warning C4996: 'fwscanf': This function or variable may be unsafe. Consider using fwscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\corecrt_wstdio.h(851): note: 参见“fwscanf”的声明
+     1>c:\users\administrator\desktop\robot\ModelInput_PDE.h(308): warning C4996: 'fwscanf': This function or variable may be unsafe. Consider using fwscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\corecrt_wstdio.h(851): note: 参见“fwscanf”的声明
+     1>c:\users\administrator\desktop\robot\ModelInput_PDE.h(311): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\corecrt_wstring.h(121): note: 参见“wcscpy”的声明
+     1>c:\users\administrator\desktop\robot\ModelInput_PDE.h(317): warning C4996: 'fwscanf': This function or variable may be unsafe. Consider using fwscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\corecrt_wstdio.h(851): note: 参见“fwscanf”的声明
+     1>c:\users\administrator\desktop\robot\ModelInput_PDE.h(318): warning C4996: 'fwscanf': This function or variable may be unsafe. Consider using fwscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\corecrt_wstdio.h(851): note: 参见“fwscanf”的声明
+     1>c:\users\administrator\desktop\robot\ModelInput_PDE.h(321): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\corecrt_wstring.h(121): note: 参见“wcscpy”的声明
+     1>c:\users\administrator\desktop\robot\ModelInput_PDE.h(326): warning C4996: 'fwscanf': This function or variable may be unsafe. Consider using fwscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\corecrt_wstdio.h(851): note: 参见“fwscanf”的声明
+     1>c:\users\administrator\desktop\robot\ModelInput_PDE.h(293): warning C4101: “modName”: 未引用的局部变量
+     1>test.cpp(26): warning C4305: “参数”: 从“double”到“GLfloat”截断
+         正在生成代码...
+     1>c:\users\administrator\desktop\robot\modelinput_pde.h(376): warning C4715: “ModelInput_pde::GetModelJudgeName”: 不是所有的控件路径都返回值
+       Link:
+         D:\vs2015\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Desktop\Robot\x64\Debug\Robot.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Administrator\Desktop\Robot\x64\Debug\Robot.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\Desktop\Robot\x64\Debug\Robot.lib" /MACHINE:X64 x64\Debug\GLF_PDE.obj
+         x64\Debug\GLW_PDE.obj
+         x64\Debug\test.obj
+     1>LINK : fatal error LNK1104: 无法打开文件“freeglutd.lib”
+     1>已完成生成项目“C:\Users\Administrator\Desktop\Robot\Robot.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:08.21
